@@ -1,5 +1,5 @@
 <p align="center"> 
- profile visitors
+ <h1> profile visitors </h1>
  <br><br>
   <img src="https://profile-counter.glitch.me/bushra-18aug/count.svg" />
 </p>
