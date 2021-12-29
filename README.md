@@ -62,6 +62,6 @@
 <br/>
 
 <p align="left"> 
- profile visitors <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
+<img src="https://komarev.com/ghpvc/?username=bushra-18aug">
 </p>
 
