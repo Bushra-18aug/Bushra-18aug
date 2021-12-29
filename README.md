@@ -63,8 +63,6 @@
 
 <p align="left"> 
  profile visitors
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
-</a>
+ <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
 </p>
 
