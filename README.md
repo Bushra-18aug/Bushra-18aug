@@ -1,13 +1,12 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra </h1>
+
 <p align="center"> 
  profile visitors
  <br><br>
   <img src="https://profile-counter.glitch.me/bushra-18aug/count.svg" />
 </p>
-
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra </h1>
 
 ## Connect with me:
 <p align="center">
