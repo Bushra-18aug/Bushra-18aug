@@ -2,13 +2,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra </h1>
 
-<p align="center"> 
- profile visitors
- <br><br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
-</a>
-</p>
 
 ## Connect with me:
 <p align="center">
@@ -67,4 +60,11 @@
 
 <br/>
 <br/>
+
+<p align="left"> 
+ profile visitors
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
+</a>
+</p>
 
