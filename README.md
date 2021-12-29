@@ -17,7 +17,6 @@
 
 <p align="center" dir="auto">
 
-  <a href=(https://readme-typing-svg.herokuapp.com?color=%2309C0FF&lines=Software+Engineer;Front-End+Developer;Kurdish+Designer;A+Girl+trying+to+figure+out+stuff+%3A))](https://git.io/typing-svg)/> </a>
  
 </p>
 
