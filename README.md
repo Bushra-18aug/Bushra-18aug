@@ -2,8 +2,6 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra </h1>
 
-
-## Connect with me:
 <p align="center">
 
 <a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
