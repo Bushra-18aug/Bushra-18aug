@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"> 
  profile visitors
  <br><br>
