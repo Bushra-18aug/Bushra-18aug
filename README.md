@@ -5,7 +5,9 @@
 <p align="center"> 
  profile visitors
  <br><br>
-  <img src="https://profile-counter.glitch.me/bushra-18aug/count.svg" />
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
+</a>
 </p>
 
 ## Connect with me:
@@ -66,9 +68,3 @@
 <br/>
 <br/>
 
-
-## ❤ Views and Followers
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
-</a> </p>
