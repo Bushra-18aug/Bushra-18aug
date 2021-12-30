@@ -1,7 +1,5 @@
 
-<h2 align="left"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
-<br> welcome to my profile ...
-</h2>
+<h2 align="left"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
 <br>
 <!-- <p align="center">
@@ -9,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=arial&color=%2321B4F7&size=23&center=true&vCenter=true&width=405&height=54&lines=Software+Engineer;Front-End+Developer;Kurdish+Designer" >
 </a>
 </p> -->
-
 <h4 align="left"> 🔗 Connect with me: </h4>
 <p align="left">
 <a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png"/></a>
