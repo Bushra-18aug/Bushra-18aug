@@ -1,9 +1,10 @@
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />
 </p>
 
-<h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra
+<h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
 <br> welcome to my profile ...
 </h2>
+ 
  
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
