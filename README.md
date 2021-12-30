@@ -37,17 +37,4 @@
 
 <a href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align="left"> 
-<a href="https://github.com/bushra-18aug/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
-</a>
-</p>
 
-
-❤ **Views and Followers**
-<br/>
-
-<a href="https://github.com/bushra-18aug/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
-</a>
-<a href="https://github.com/bushra-18aug=followers"><img src="https://img.shields.io/github/followers/bushra-18aug?label=Followers&style=social" alt="GitHub Badge"></a>
