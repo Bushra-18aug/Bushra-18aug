@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="500" />
+<p align="center"><img src="https://dribbble.com/shots/7495197-Mark-Catckerberg/attachments/318407?mode=media" width="500" />
 </p>
 
 <h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
