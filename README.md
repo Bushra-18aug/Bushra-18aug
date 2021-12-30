@@ -13,11 +13,9 @@
 </p>
 
 <p align="center">
-<a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
- 
- <a href = "https://www.facebook.com/bushra77501/"><img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138125.png?token=exp=1640826577~hmac=663e2d6d662df5b83261a6a637e23594" /></a>
- 
-  <a href = "https://www.behance.net/bushrafateh"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670094.png?token=exp=1640826988~hmac=52fc36ca3e5c392255a615205e469908" /></a>
+<a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/></a>
+<a href = "https://www.facebook.com/bushra77501/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
+<a href = "https://www.behance.net/bushrafateh"><img src="https://img.icons8.com/bubbles/50/000000/behance.png"/></a>
 </p>
 
 
