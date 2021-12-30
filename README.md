@@ -1,7 +1,3 @@
-<p align="center"><https://user-images.githubusercontent.com/78873076/147716077-c7b40c71-befb-406c-b537-b55d2ee224b3.mp4width="500" />
-</p>
-
-https://user-images.githubusercontent.com/78873076/147716077-c7b40c71-befb-406c-b537-b55d2ee224b3.mp4
 
 <h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
 <br> welcome to my profile ...
