@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href = "https://www.instagram.com/busha_intech/"><img src="https://www.flaticon.com/premium-icon/instagram_4138124?term=instagram&page=1&position=8&page=1&position=8&related_id=4138124&origin=search"/></a>
+<a href = "https://www.instagram.com/busha_intech/"><img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1640826568~hmac=e350e23d81b80042e15315366e5f9be3"/></a>
 </p>
 
 
