@@ -1,8 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
+<h2 align="left"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
 <br> welcome to my profile ...
 </h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
+  <br/>
  
  
 <!-- <p align="center">
@@ -12,7 +13,7 @@
 </p> -->
 
 ## 🔗 Connect with me:
-<p align="center">
+<p align="left">
 <a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png"/></a>
 <a href = "https://www.facebook.com/bushra77501/"><img src="https://img.icons8.com/bubbles/75/000000/facebook-new.png"/></a>
 <a href = "https://www.behance.net/bushrafateh"><img src="https://img.icons8.com/bubbles/75/000000/behance.png"/></a>
