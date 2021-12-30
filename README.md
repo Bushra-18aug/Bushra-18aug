@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra
+<h2 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It's me Bushra
 <br> welcome to my profile 😎
-</h1>
+</h2>
  
 <p align="center" dir="auto">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
