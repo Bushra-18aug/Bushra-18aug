@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href = "https://www.instagram.com/busha_intech/"><img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1640826568~hmac=e350e23d81b80042e15315366e5f9be3"/></a>
+<a href = "https://www.instagram.com/busha_intech/"><img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png?token=exp=1640826568~hmac=e350e23d81b80042e15315366e5f9be3"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
  
  <a href = "https://www.facebook.com/bushra77501/"><img src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138125.png?token=exp=1640826577~hmac=663e2d6d662df5b83261a6a637e23594" /></a>
  
