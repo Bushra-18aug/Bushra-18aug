@@ -1,4 +1,4 @@
-![efbb53eac4f188a7a88148a0c3a05476](https://user-images.githubusercontent.com/78873076/147717404-6afdcccf-947b-49df-bd61-8a875aef60ab.jpg)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">It's me Bushra
 <br> welcome to my profile ...
@@ -11,7 +11,7 @@
 </a>
 </p> -->
 
-## Connect with me
+## ♾️ Connect with me:
 <p align="center">
 <a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png"/></a>
 <a href = "https://www.facebook.com/bushra77501/"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a>
