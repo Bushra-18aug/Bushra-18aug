@@ -43,3 +43,11 @@
 </a>
 </p>
 
+
+❤ **Views and Followers**
+<br/>
+
+<a href="https://github.com/bushra-18aug/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bushra-18aug">
+</a>
+<a href="https://github.com/bushra-18aug=followers"><img src="https://img.shields.io/github/followers/bushra-18aug?label=Followers&style=social" alt="GitHub Badge"></a>
