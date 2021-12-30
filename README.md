@@ -25,10 +25,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    
-   
 </p>
 
-<a href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4141&sideNums=F362FF&dates=FFFFFF&background=2A2F34&ring=FF4141&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FF4141&sideLabels=F362FF)](https://git.io/streak-stats)
+
+<a align="left" href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=F17DFF&line=F17DFF&point=FFFFFF&hide_border=true" /></a>
 
 
