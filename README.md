@@ -14,10 +14,12 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/bushra-18aug/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bushra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bushra-18aug&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=%2309C0FF&size=23&width=405&height=55&lines=Software+Engineer;Front-End+Developer;Kurdish+Designer;A+Girl+trying+to+figure+out+stuff+%3A" >
+</a>
 </p>
+
+
 
 ## 📊 My Github Stats
 
