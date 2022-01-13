@@ -1,6 +1,6 @@
 
 <h2 align="left"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's me Bushra </h2>
-<img align="left" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47gww22szy8nlkpv3ud0ybiq9myctucgiactmp1s6b&rid=giphy.gif&ct=g" width="350" height="250" /> 
+<img align="left" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47gww22szy8nlkpv3ud0ybiq9myctucgiactmp1s6b&rid=giphy.gif&ct=g" width="375" height="200" /> 
 <br>
 
 <!-- <p align="center">
