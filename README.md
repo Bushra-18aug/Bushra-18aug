@@ -1,4 +1,4 @@
-<!--
+
 <h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's me Bushra </h2>
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47gww22szy8nlkpv3ud0ybiq9myctucgiactmp1s6b&rid=giphy.gif&ct=g" width="375" height="200" /> 
 <br> 
@@ -12,7 +12,7 @@
 
 <h4 align="left"> 🔗 Connect with me: </h4>
 <p align="left">
-<a href = "https://www.instagram.com/busha_intech/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+<a href = "https://www.instagram.com/bushra.fateh/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href = "https://www.facebook.com/bushra77501/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.behance.net/bushrafateh"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 </p>
@@ -33,6 +33,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4141&sideNums=F362FF&dates=FFFFFF&background=2A2F34&ring=FF4141&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FF4141&sideLabels=F362FF)](https://git.io/streak-stats)
 
 <a align="center" href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=F17DFF&line=F17DFF&point=FFFFFF&hide_border=true" /></a>
--->
+
 
 
