@@ -32,7 +32,7 @@
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenverCoder1&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4141&sideNums=F362FF&dates=FFFFFF&background=2A2F34&ring=FF4141&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FF4141&sideLabels=F362FF)](https://git.io/streak-stats) -->
 
-<a align="center" href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=F17DFF&line=F17DFF&point=FFFFFF&hide_border=true" /></a>
+<a align="center" href="https://github.com/bushra-18aug/github-readme-activity-graph"><img alt="Bushra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bushra-18aug&bg_color=0D1117&color=00000&line=00000&point=FFFFFF&hide_border=true" /></a>
 
 
 
