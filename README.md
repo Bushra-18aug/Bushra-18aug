@@ -10,15 +10,15 @@
 </a>
 </p> 
 
-<h4 align="left"> 🔗 Connect with me: </h4>
-<p align="left">
+<h4 align="center"> 🔗 Connect with me: </h4>
+<p align="center">
 <a href = "https://www.instagram.com/bushra.fateh/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href = "https://www.facebook.com/bushra77501/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.behance.net/bushrafateh"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 </p>
-<h4 align="left"> 🚀 Languages and Tools: </h4>
+<h4 align="center"> 🚀 Languages and Tools: </h4>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
